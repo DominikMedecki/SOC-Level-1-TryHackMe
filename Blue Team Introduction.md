@@ -13,7 +13,7 @@ Reviewed the SIEM dashboard and identified two critical alerts involving suspici
 These alerts indicated a potential compromise and required further investigation.
     
 ![SIEM dashboard showing critical SSH alerts](Images/siem-alerts.png)    
-    ### 2. IP Reputation Check
+2. IP Reputation Check
     
 Used the IP Hunter tool to investigate the suspicious IP address. The results identified it as malicious, with four reported cyberattack associations, including port scanning, command-and-control (C2), and PlugX.
     
