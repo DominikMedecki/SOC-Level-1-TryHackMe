@@ -12,7 +12,7 @@ Junior security analyst Intro
     
     These alerts indicated a potential compromise and required further investigation.
     
-    ![SIEM dashboard showing critical SSH alerts](images/siem-alerts.png)
+    ![...](https://raw.githubusercontent.com/DominikMedecki/SOC-Level-1-TryHackMe/main/Images/siem-alerts.png)    
     
     ### 2. IP Reputation Check
     
