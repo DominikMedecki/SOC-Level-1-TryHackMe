@@ -1,7 +1,3 @@
-Junior security analyst
-
-Junior security analyst Intro 
-    
 ## Alert Investigation & IP Reputation
 ### 1. SIEM Alert Review
     
