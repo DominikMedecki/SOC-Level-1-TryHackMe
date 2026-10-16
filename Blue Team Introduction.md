@@ -19,7 +19,7 @@ Used the IP Hunter tool to investigate the suspicious IP address. The results id
     
 This provided additional context supporting the need to escalate the alerts for further investigation.
     
-![IP Hunter results showing malicious IP reputation](images/ip-reputation.png)
+![IP Hunter results showing malicious IP reputation](Images/ip-reputation.png)
     
  ### Key Takeaways
     
